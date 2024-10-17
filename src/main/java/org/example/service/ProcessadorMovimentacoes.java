@@ -26,7 +26,7 @@ public class ProcessadorMovimentacoes implements Processador<MovimentacaoFinance
 
     @Override
     public List<MovimentacaoFinanceira> filtrarRecorrentes() {
-        // Cria um mapa para contar transações com mesma descrição e valor
+        
         Map<String, List<MovimentacaoFinanceira>> mapaRecorrencias = movimentacoes.stream()
                 .collect(Collectors.groupingBy(mov -> mov.getDescricao() + "|" + mov.getValor()));
 
