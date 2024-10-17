@@ -24,18 +24,31 @@ public class ProcessadorMovimentacoes implements Processador<MovimentacaoFinance
                 .collect(Collectors.toList());
     }
 
-    @Override
+   /* @Override
     public List<MovimentacaoFinanceira> filtrarRecorrentes() {
-        // Cria um mapa para contar transações com mesma descrição e valor
+
         Map<String, List<MovimentacaoFinanceira>> mapaRecorrencias = movimentacoes.stream()
                 .collect(Collectors.groupingBy(mov -> mov.getDescricao() + "|" + mov.getValor()));
 
-
+z
         return mapaRecorrencias.values().stream()
                 .filter(lista -> lista.size() > 1)
                 .flatMap(List::stream)
                 .collect(Collectors.toList());
-    }
+    }*/
+   public Map<String, Long> filtrarRecorrentes() {
+
+       // Agrupa as movimentações por descrição e valor e conta as ocorrências
+       return movimentacoes.stream()
+               .collect(Collectors.groupingBy(
+                       mov -> mov.getDescricao() + " - Valor: " + mov.getValor(), // Chave: descrição e valor
+                       Collectors.counting() // Valor: quantidade de vezes que aparece
+               ))
+               .entrySet().stream()
+               .filter(entry -> entry.getValue() > 1) // Filtra as que se repetem
+               .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue)); // Retorna o mapa final
+   }
+
 
     @Override
     public BigDecimal calcularTotalDeGasto() {

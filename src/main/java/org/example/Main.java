@@ -8,6 +8,7 @@ import org.example.util.FormatarValor;
 
 import java.math.BigDecimal;
 import java.util.List;
+import java.util.Map;
 
 
 public class Main {
@@ -46,13 +47,15 @@ public class Main {
                 System.out.println(tipoPagamento + ": " + FormatarValor.formatarValor(total)));
         System.out.println("----------------------------------------------------------------");
         System.out.println("Movimentações Recorrentes:");
-        List<MovimentacaoFinanceira> recorrentes = processador.filtrarRecorrentes();
-        if (!recorrentes.isEmpty()) {
-            recorrentes.forEach(mov -> System.out.println("Descrição: " + mov.getDescricao() +
-                    " - Valor: " + FormatarValor.formatarValor(mov.getValor()) +
-                    " - Data: " + mov.getData()));
-        } else {
-            System.out.println("Nenhuma movimentação recorrente encontrada.");
+        Map<String, Long> recorrentes = processador.filtrarRecorrentes();
+                if (!recorrentes.isEmpty()) {
+                    recorrentes.forEach((descricao, count) ->
+                            System.out.println(descricao + " - Repetições: " + count));
+                } else {
+                    System.out.println("Nenhuma movimentação recorrente encontrada.");
+
+
         }
+
     }
 }
