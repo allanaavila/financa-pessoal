@@ -47,15 +47,13 @@ public class Main {
                 System.out.println(tipoPagamento + ": " + FormatarValor.formatarValor(total)));
         System.out.println("----------------------------------------------------------------");
         System.out.println("Movimentações Recorrentes:");
-        Map<String, Long> recorrentes = processador.filtrarRecorrentes();
+                Map<String, Long> recorrentes = processador.filtrarRecorrentes();
                 if (!recorrentes.isEmpty()) {
                     recorrentes.forEach((descricao, count) ->
                             System.out.println(descricao + " - Repetições: " + count));
                 } else {
                     System.out.println("Nenhuma movimentação recorrente encontrada.");
-
-
-        }
+                }
 
     }
 }
