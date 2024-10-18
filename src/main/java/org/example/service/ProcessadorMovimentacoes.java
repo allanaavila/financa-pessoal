@@ -24,34 +24,20 @@ public class ProcessadorMovimentacoes implements Processador<MovimentacaoFinance
                 .collect(Collectors.toList());
     }
 
-   /* @Override
-    public List<MovimentacaoFinanceira> filtrarRecorrentes() {
-<<<<<<< HEAD
+    @Override
+    public Map<String, Long> filtrarRecorrentes() {
 
-=======
-        
->>>>>>> 5b565de7d4dce4b92df4adb47cdae19a57ce0a72
-        Map<String, List<MovimentacaoFinanceira>> mapaRecorrencias = movimentacoes.stream()
-                .collect(Collectors.groupingBy(mov -> mov.getDescricao() + "|" + mov.getValor()));
 
-z
-        return mapaRecorrencias.values().stream()
-                .filter(lista -> lista.size() > 1)
-                .flatMap(List::stream)
-                .collect(Collectors.toList());
-    }*/
-   public Map<String, Long> filtrarRecorrentes() {
+        return movimentacoes.stream()
+                .collect(Collectors.groupingBy(
+                        MovimentacaoFinanceira::getDescricao,
+                        Collectors.counting()
+                ))
+                .entrySet().stream()
+                .filter(entry -> entry.getValue() > 15)
+                .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue));
+    }
 
-       // Agrupa as movimentações por descrição e valor e conta as ocorrências
-       return movimentacoes.stream()
-               .collect(Collectors.groupingBy(
-                       mov -> mov.getDescricao() + " - Valor: " + mov.getValor(), // Chave: descrição e valor
-                       Collectors.counting() // Valor: quantidade de vezes que aparece
-               ))
-               .entrySet().stream()
-               .filter(entry -> entry.getValue() > 1) // Filtra as que se repetem
-               .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue)); // Retorna o mapa final
-   }
 
 
     @Override
