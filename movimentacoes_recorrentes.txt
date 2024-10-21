@@ -1,0 +1,24 @@
+Movimentações Recorrentes:
+======================================================
+Descrição                                | Repetições
+-------------------------------------------------------
+Netflix                                  | 20
+Conta de água                            | 21
+Salário Quinzenal                        | 46
+Spotify                                  | 21
+Loja de Ferragens                        | 34
+Cervejaria                               | 23
+State Farm                               | 18
+Phone Company                            | 21
+Shell                                    | 18
+Pagamento da IPTU                        | 21
+Gas Company                              | 21
+Cartão de Crédito                        | 143
+Supermercado                             | 105
+Posto de Gasolina                        | 21
+Companhia de Energia                     | 21
+American Tavern                          | 24
+Provedor de Serviços de Internet         | 21
+Amazon                                   | 59
+Starbucks                                | 32
+-------------------------------------------------------

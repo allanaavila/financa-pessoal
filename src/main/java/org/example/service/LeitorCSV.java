@@ -23,20 +23,16 @@ public class LeitorCSV {
 
     public List<MovimentacaoFinanceira> lerMovimentacoes() {
         List<MovimentacaoFinanceira> movimentacoes = new ArrayList<>();
-
         try (CSVReader reader = new CSVReader(new FileReader(arquivoCSV))) {
             String[] linha;
             reader.readNext();
-
             int linhaIndex = 2;
-
             while ((linha = reader.readNext()) != null) {
                 linhaIndex++;
                 if (linha.length < 5) {
                     System.err.println("Linha inválida na linha " + linhaIndex + ": " + String.join(", ", linha));
                     continue;
                 }
-
                 Date data;
                 try {
                     data = DataUtil.stringParaData(linha[0]);
@@ -44,7 +40,6 @@ public class LeitorCSV {
                     System.err.println("Erro ao converter a data na linha " + linhaIndex + ": " + linha[0]);
                     continue;
                 }
-
                 String descricao = linha[1];
                 BigDecimal valor;
                 try {
@@ -53,10 +48,8 @@ public class LeitorCSV {
                     System.err.println("Erro ao converter o valor na linha " + linhaIndex + ": " + linha[2]);
                     continue;
                 }
-
                 String tipoPagamento = linha[3];
                 String categoria = linha[4];
-
                 MovimentacaoFinanceira movimentacao = new MovimentacaoFinanceira(data, descricao, valor, tipoPagamento, categoria);
                 movimentacoes.add(movimentacao);
             }
@@ -64,7 +57,6 @@ public class LeitorCSV {
             System.err.println("Erro ao ler o arquivo CSV: " + e.getMessage());
             e.printStackTrace();
         }
-
         return movimentacoes;
     }
 }

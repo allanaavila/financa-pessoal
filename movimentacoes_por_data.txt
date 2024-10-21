@@ -1,0 +1,578 @@
+Movimentações entre 14/05/2018 e 16/05/2020:
+-----------------------------------------------------------
+Data         | Descrição                      | Valor
+-----------------------------------------------------------
+01/06/2018   | Loja de Ferragens              | R$ 18,45
+01/08/2018   | Gas Company                    | R$ 45,00
+01/08/2018   | Loja de Ferragens              | R$ 15,38
+01/09/2018   | Spotify                        | R$ 10,69
+01/10/2018   | Phone Company                  | R$ 89,46
+01/11/2018   | Shell                          | R$ 34,87
+01/11/2018   | Supermercado                   | R$ 43,54
+01/12/2018   | Salário Quinzenal              | R$ 2.000,00
+01/01/2019   | Pizzaria                       | R$ 32,91
+01/01/2019   | Amazon                         | R$ 39,05
+01/03/2019   | Supermercado                   | R$ 44,19
+01/03/2019   | American Tavern                | R$ 64,11
+01/04/2019   | Conta de água                  | R$ 35,00
+01/04/2019   | Companhia de Energia           | R$ 60,00
+01/07/2019   | Salário Quinzenal              | R$ 2.000,00
+01/08/2019   | Amazon                         | R$ 50,21
+01/10/2019   | Cartão de Crédito              | R$ 554,99
+01/10/2019   | Cartão de Crédito              | R$ 309,81
+01/10/2019   | Cartão de Crédito              | R$ 554,99
+01/10/2019   | Loja de Ferragens              | R$ 17,38
+01/11/2019   | Cartão de Crédito              | R$ 309,81
+01/12/2019   | Starbucks                      | R$ 3,00
+01/01/2020   | Provedor de Serviços de Internet | R$ 69,99
+01/05/2020   | Shell                          | R$ 30,42
+01/05/2020   | Thai Restaurant                | R$ 25,00
+01/05/2020   | Restaurante de Brunch          | R$ 17,62
+02/06/2018   | Cartão de Crédito              | R$ 154,13
+02/07/2018   | Cartão de Crédito              | R$ 154,13
+02/07/2018   | Gas Company                    | R$ 65,00
+02/09/2018   | Barbershop                     | R$ 30,00
+02/09/2018   | Spotify                        | R$ 10,69
+02/10/2018   | Bojangles                      | R$ 10,66
+02/11/2018   | Fancy Restaurant               | R$ 106,80
+02/12/2018   | Shell                          | R$ 36,47
+02/12/2018   | Phone Company                  | R$ 89,52
+02/02/2019   | Cervejaria                     | R$ 14,00
+02/03/2019   | American Tavern                | R$ 10,00
+02/03/2019   | Companhia de Energia           | R$ 60,00
+02/04/2019   | Salário Quinzenal              | R$ 2.000,00
+02/04/2019   | Restaurante de Brunch          | R$ 8,00
+02/04/2019   | Conta de água                  | R$ 35,00
+02/08/2019   | Supermercado                   | R$ 35,95
+02/08/2019   | Mexican Restaurant             | R$ 23,51
+02/09/2019   | Starbucks                      | R$ 2,00
+02/10/2019   | Starbucks                      | R$ 4,00
+02/02/2020   | Cartão de Crédito              | R$ 765,37
+02/02/2020   | Cartão de Crédito              | R$ 156,11
+02/02/2020   | Cartão de Crédito              | R$ 765,37
+02/02/2020   | Provedor de Serviços de Internet | R$ 74,99
+02/02/2020   | American Tavern                | R$ 85,52
+02/02/2020   | Posto de Gasolina              | R$ 32,21
+02/03/2020   | Cartão de Crédito              | R$ 156,11
+03/07/2018   | Starbucks                      | R$ 3,50
+03/08/2018   | Posto de Gasolina              | R$ 34,90
+03/08/2018   | Gas Company                    | R$ 52,00
+03/09/2018   | Supermercado                   | R$ 20,72
+03/09/2018   | Supermercado                   | R$ 5,09
+03/09/2018   | Spotify                        | R$ 10,69
+03/12/2018   | Supermercado                   | R$ 19,35
+03/12/2018   | Phone Company                  | R$ 89,52
+03/01/2019   | Amazon                         | R$ 45,75
+03/02/2019   | Supermercado                   | R$ 22,50
+03/02/2019   | Restaurante de Brunch          | R$ 8,49
+03/03/2019   | Starbucks                      | R$ 3,50
+03/03/2019   | Companhia de Energia           | R$ 60,00
+03/04/2019   | Salário Quinzenal              | R$ 2.000,00
+03/05/2019   | Cervejaria                     | R$ 19,50
+03/05/2019   | Pizzaria                       | R$ 23,34
+03/07/2019   | Restaurante Mediterrâneo       | R$ 36,48
+03/07/2019   | Conta de água                  | R$ 35,00
+03/08/2019   | Amazon                         | R$ 14,97
+03/10/2019   | Posto de Gasolina              | R$ 30,55
+03/11/2019   | Cartão de Crédito              | R$ 559,91
+03/11/2019   | Cartão de Crédito              | R$ 559,91
+03/11/2019   | Supermercado                   | R$ 11,76
+03/02/2020   | Provedor de Serviços de Internet | R$ 74,99
+03/04/2020   | Supermercado                   | R$ 16,06
+03/04/2020   | Pizzaria                       | R$ 24,98
+03/05/2020   | Steakhouse                     | R$ 17,64
+04/06/2018   | Chevron                        | R$ 4,58
+04/06/2018   | Tiny Deli                      | R$ 9,76
+04/08/2018   | Irish Pub                      | R$ 22,00
+04/09/2018   | Blue Sky Market                | R$ 6,48
+04/09/2018   | Spotify                        | R$ 10,69
+04/09/2018   | Gas Company                    | R$ 30,00
+04/11/2018   | Phone Company                  | R$ 89,52
+04/12/2018   | Starbucks                      | R$ 7,00
+04/12/2018   | Barbershop                     | R$ 30,00
+04/01/2019   | Posto de Gasolina              | R$ 37,98
+04/01/2019   | Salário Quinzenal              | R$ 2.000,00
+04/01/2019   | American Tavern                | R$ 10,66
+04/02/2019   | Loja de Ferragens              | R$ 11,61
+04/02/2019   | American Tavern                | R$ 41,00
+04/04/2019   | State Farm                     | R$ 75,00
+04/04/2019   | Conta de água                  | R$ 35,00
+04/06/2019   | Companhia de Energia           | R$ 60,00
+04/08/2019   | Thai Restaurant                | R$ 24,22
+04/09/2019   | Supermercado                   | R$ 4,32
+04/09/2019   | American Tavern                | R$ 35,15
+04/10/2019   | Supermercado                   | R$ 21,32
+04/11/2019   | Loja de Ferragens              | R$ 42,70
+04/12/2019   | Loja de Ferragens              | R$ 224,70
+04/12/2019   | Amazon                         | R$ 41,34
+04/01/2020   | Loja de Ferragens              | R$ 210,79
+04/01/2020   | Provedor de Serviços de Internet | R$ 74,99
+04/02/2020   | Cartão de Crédito              | R$ 769,72
+04/02/2020   | Cartão de Crédito              | R$ 1.216,94
+04/02/2020   | Cartão de Crédito              | R$ 1.216,94
+04/03/2020   | Cartão de Crédito              | R$ 769,72
+04/03/2020   | Salário Quinzenal              | R$ 2.000,00
+04/04/2020   | Supermercado                   | R$ 22,98
+04/05/2020   | QuikTrip                       | R$ 39,00
+04/05/2020   | Supermercado                   | R$ 51,05
+04/05/2020   | Loja de Ferragens              | R$ 68,47
+05/06/2018   | Loja de Ferragens              | R$ 22,37
+05/06/2018   | Amazon                         | R$ 117,69
+05/09/2018   | Cartão de Crédito              | R$ 601,40
+05/09/2018   | Cartão de Crédito              | R$ 601,40
+05/09/2018   | Spotify                        | R$ 10,69
+05/09/2018   | Gas Company                    | R$ 30,00
+05/10/2018   | Phone Company                  | R$ 111,18
+05/11/2018   | Supermercado                   | R$ 57,32
+05/11/2018   | Salário Quinzenal              | R$ 2.000,00
+05/11/2018   | Mike's Construction Co.        | R$ 8.000,00
+05/12/2018   | Liquor Store                   | R$ 27,77
+05/12/2018   | Shell                          | R$ 33,30
+05/12/2018   | Fancy Restaurant               | R$ 78,00
+05/02/2019   | Supermercado                   | R$ 67,63
+05/03/2019   | Companhia de Energia           | R$ 60,00
+05/05/2019   | Barbershop                     | R$ 29,00
+05/05/2019   | Conta de água                  | R$ 35,00
+05/06/2019   | State Farm                     | R$ 75,00
+05/06/2019   | Amazon                         | R$ 6,41
+05/07/2019   | Cartão de Crédito              | R$ 207,08
+05/07/2019   | Supermercado                   | R$ 31,00
+05/07/2019   | Restaurante Grego              | R$ 23,26
+05/09/2019   | Cartão de Crédito              | R$ 283,07
+05/09/2019   | Thai Restaurant                | R$ 26,04
+05/09/2019   | Amazon                         | R$ 32,50
+05/10/2019   | Cartão de Crédito              | R$ 283,07
+05/12/2019   | Posto de Gasolina              | R$ 39,44
+05/01/2020   | Provedor de Serviços de Internet | R$ 74,99
+05/01/2020   | Salário Quinzenal              | R$ 2.000,00
+05/04/2020   | Movie Theater                  | R$ 9,62
+05/04/2020   | Supermercado                   | R$ 91,03
+05/05/2020   | Movie Theater                  | R$ 20,00
+05/05/2020   | Movie Theater                  | R$ 6,25
+06/06/2018   | Starbucks                      | R$ 4,00
+06/08/2018   | Salário Quinzenal              | R$ 2.000,00
+06/08/2018   | Gas Company                    | R$ 30,00
+06/09/2018   | Chick-Fil-A                    | R$ 16,18
+06/09/2018   | Supermercado                   | R$ 9,56
+06/09/2018   | Spotify                        | R$ 10,69
+06/10/2018   | Supermercado                   | R$ 46,01
+06/12/2018   | Supermercado                   | R$ 12,55
+06/12/2018   | Phone Company                  | R$ 89,46
+06/02/2019   | Cartão de Crédito              | R$ 283,44
+06/02/2019   | Cartão de Crédito              | R$ 283,44
+06/02/2019   | Supermercado                   | R$ 7,02
+06/03/2019   | Companhia de Energia           | R$ 60,00
+06/04/2019   | Starbucks                      | R$ 3,00
+06/04/2019   | Pizzaria                       | R$ 22,66
+06/04/2019   | Supermercado                   | R$ 13,90
+06/06/2019   | Conta de água                  | R$ 35,00
+06/07/2019   | Shell                          | R$ 38,52
+06/07/2019   | Supermercado                   | R$ 2,69
+06/08/2019   | State Farm                     | R$ 75,00
+06/08/2019   | Cartão de Crédito              | R$ 89,45
+06/08/2019   | Barbershop                     | R$ 30,00
+06/09/2019   | Cartão de Crédito              | R$ 89,45
+06/10/2019   | Salário Quinzenal              | R$ 2.000,00
+06/11/2019   | Restaurante de Brunch          | R$ 8,50
+06/11/2019   | Amazon                         | R$ 74,97
+06/01/2020   | Cartão de Crédito              | R$ 942,76
+06/01/2020   | Cartão de Crédito              | R$ 942,76
+06/01/2020   | Provedor de Serviços de Internet | R$ 74,99
+06/02/2020   | Supermercado                   | R$ 9,62
+06/03/2020   | Starbucks                      | R$ 3,50
+06/03/2020   | Pizzaria                       | R$ 22,66
+06/04/2020   | Supermercado                   | R$ 7,57
+07/06/2018   | Amazon Video                   | R$ 6,41
+07/06/2018   | Salário Quinzenal              | R$ 2.000,00
+07/08/2018   | Cartão de Crédito              | R$ 259,87
+07/09/2018   | Cartão de Crédito              | R$ 242,16
+07/09/2018   | Cartão de Crédito              | R$ 259,87
+07/09/2018   | Spotify                        | R$ 10,69
+07/10/2018   | Cartão de Crédito              | R$ 242,16
+07/10/2018   | Supermercado                   | R$ 5,39
+07/10/2018   | Gas Company                    | R$ 30,00
+07/11/2018   | Phone Company                  | R$ 89,46
+07/02/2019   | Go Mart                        | R$ 33,51
+07/03/2019   | Circle K                       | R$ 36,24
+07/05/2019   | Wendy's                        | R$ 15,23
+07/05/2019   | Conta de água                  | R$ 35,00
+07/05/2019   | Companhia de Energia           | R$ 60,00
+07/06/2019   | Irish Restaurant               | R$ 28,54
+07/06/2019   | State Farm                     | R$ 75,00
+07/08/2019   | Cartão de Crédito              | R$ 61,43
+07/08/2019   | Cartão de Crédito              | R$ 102,88
+07/08/2019   | Cartão de Crédito              | R$ 102,88
+07/08/2019   | Salário Quinzenal              | R$ 2.000,00
+07/09/2019   | Supermercado                   | R$ 28,93
+07/09/2019   | Barbershop                     | R$ 30,00
+07/11/2019   | Cartão de Crédito              | R$ 61,43
+07/11/2019   | Starbucks                      | R$ 9,58
+07/12/2019   | American Tavern                | R$ 26,59
+07/01/2020   | Provedor de Serviços de Internet | R$ 74,99
+07/02/2020   | Conoco                         | R$ 33,67
+07/04/2020   | Supermercado                   | R$ 7,61
+08/06/2018   | Amazon                         | R$ 76,47
+08/09/2018   | Spotify                        | R$ 10,69
+08/09/2018   | Gas Company                    | R$ 30,00
+08/10/2018   | Phone Company                  | R$ 89,40
+08/11/2018   | Chick-Fil-A                    | R$ 13,67
+08/11/2018   | Valero                         | R$ 33,66
+08/03/2019   | Cartão de Crédito              | R$ 269,56
+08/03/2019   | Cartão de Crédito              | R$ 159,38
+08/03/2019   | Shell                          | R$ 41,07
+08/03/2019   | Supermercado                   | R$ 5,64
+08/03/2019   | Companhia de Energia           | R$ 60,00
+08/04/2019   | Cartão de Crédito              | R$ 269,56
+08/04/2019   | Conta de água                  | R$ 35,00
+08/05/2019   | Salário Quinzenal              | R$ 2.000,00
+08/05/2019   | Amazon                         | R$ 14,98
+08/06/2019   | Amazon                         | R$ 23,47
+08/08/2019   | State Farm                     | R$ 75,00
+08/09/2019   | Cartão de Crédito              | R$ 34,18
+08/09/2019   | Cartão de Crédito              | R$ 99,76
+08/09/2019   | Cartão de Crédito              | R$ 99,76
+08/10/2019   | Cartão de Crédito              | R$ 34,18
+08/12/2019   | American Tavern                | R$ 42,31
+08/03/2020   | Provedor de Serviços de Internet | R$ 74,99
+09/07/2018   | Gas Company                    | R$ 30,00
+09/09/2018   | Cervejaria                     | R$ 18,00
+09/09/2018   | Spotify                        | R$ 10,69
+09/11/2018   | Posto de Gasolina              | R$ 38,86
+09/11/2018   | Supermercado                   | R$ 7,87
+09/12/2018   | Supermercado                   | R$ 47,16
+09/12/2018   | Phone Company                  | R$ 89,40
+09/01/2019   | Supermercado                   | R$ 5,64
+09/02/2019   | Cartão de Crédito              | R$ 134,34
+09/02/2019   | Salário Quinzenal              | R$ 2.000,00
+09/05/2019   | Supermercado                   | R$ 10,17
+09/05/2019   | Supermercado                   | R$ 8,80
+09/05/2019   | Conta de água                  | R$ 35,00
+09/06/2019   | Supermercado                   | R$ 4,32
+09/06/2019   | Companhia de Energia           | R$ 60,00
+09/07/2019   | State Farm                     | R$ 75,00
+09/07/2019   | Barbershop                     | R$ 30,00
+09/08/2019   | Amazon                         | R$ 47,38
+09/10/2019   | Loja de Ferragens              | R$ 69,40
+09/10/2019   | Loja de Ferragens              | R$ 6,83
+09/01/2020   | Provedor de Serviços de Internet | R$ 74,99
+09/01/2020   | Sushi Restaurant               | R$ 48,64
+09/02/2020   | Starbucks                      | R$ 5,00
+09/02/2020   | Exxon                          | R$ 38,00
+09/03/2020   | Valero                         | R$ 40,71
+09/04/2020   | Cartão de Crédito              | R$ 128,12
+09/04/2020   | Cartão de Crédito              | R$ 284,96
+09/04/2020   | Cartão de Crédito              | R$ 284,96
+09/04/2020   | Supermercado                   | R$ 13,36
+09/04/2020   | Salário Quinzenal              | R$ 2.000,00
+09/05/2020   | Restaurante Grego              | R$ 23,26
+09/05/2020   | German Restaurant              | R$ 46,70
+10/06/2018   | American Tavern                | R$ 27,00
+10/08/2018   | Shell                          | R$ 38,06
+10/08/2018   | Loja de Ferragens              | R$ 80,65
+10/08/2018   | Loja de Ferragens              | R$ 31,20
+10/09/2018   | Spotify                        | R$ 10,69
+10/09/2018   | Amazon                         | R$ 19,98
+10/09/2018   | Gas Company                    | R$ 30,00
+10/10/2018   | Supermercado                   | R$ 53,68
+10/11/2018   | Phone Company                  | R$ 89,40
+10/12/2018   | Salário Quinzenal              | R$ 2.000,00
+10/04/2019   | Companhia de Energia           | R$ 60,00
+10/05/2019   | Conta de água                  | R$ 35,00
+10/06/2019   | State Farm                     | R$ 75,00
+10/06/2019   | Supermercado                   | R$ 33,55
+10/06/2019   | Loja de Ferragens              | R$ 45,24
+10/06/2019   | Restaurante de Brunch          | R$ 8,00
+10/09/2019   | Cartão de Crédito              | R$ 544,37
+10/10/2019   | Cartão de Crédito              | R$ 353,83
+10/10/2019   | Cartão de Crédito              | R$ 353,83
+10/10/2019   | Posto de Gasolina              | R$ 34,66
+10/11/2019   | Supermercado                   | R$ 7,57
+10/01/2020   | Provedor de Serviços de Internet | R$ 74,99
+10/01/2020   | Amazon                         | R$ 29,98
+10/02/2020   | Salário Quinzenal              | R$ 2.000,00
+10/03/2020   | American Tavern                | R$ 25,40
+10/04/2020   | Cervejaria                     | R$ 12,71
+10/04/2020   | Seafood Restaurant             | R$ 14,75
+10/04/2020   | Supermercado                   | R$ 92,49
+10/04/2020   | Italian Restaurant             | R$ 54,00
+11/06/2018   | Amazon                         | R$ 53,95
+11/06/2018   | Gas Company                    | R$ 30,00
+11/08/2018   | Supermercado                   | R$ 5,64
+11/09/2018   | Spotify                        | R$ 10,69
+11/09/2018   | Salário Quinzenal              | R$ 2.000,00
+11/10/2018   | Cervejaria                     | R$ 27,00
+11/10/2018   | Chick-Fil-A                    | R$ 14,19
+11/10/2018   | Food Truck                     | R$ 24,40
+11/12/2018   | Supermercado                   | R$ 10,18
+11/12/2018   | American Tavern                | R$ 22,33
+11/01/2019   | Supermercado                   | R$ 4,80
+11/01/2019   | Supermercado                   | R$ 37,43
+11/01/2019   | Supermercado                   | R$ 10,15
+11/01/2019   | Phone Company                  | R$ 89,54
+11/02/2019   | Companhia de Energia           | R$ 60,00
+11/04/2019   | Conta de água                  | R$ 35,00
+11/05/2019   | Cervejaria                     | R$ 22,80
+11/05/2019   | Loja de Ferragens              | R$ 15,47
+11/05/2019   | Loja de Ferragens              | R$ 6,40
+11/05/2019   | Restaurante Grego              | R$ 23,26
+11/07/2019   | Cervejaria                     | R$ 20,00
+11/07/2019   | QuikTrip                       | R$ 29,15
+11/07/2019   | Loja de Ferragens              | R$ 10,02
+11/08/2019   | State Farm                     | R$ 75,00
+11/08/2019   | Cartão de Crédito              | R$ 421,96
+11/09/2019   | Supermercado                   | R$ 5,64
+11/09/2019   | Loja de Ferragens              | R$ 37,41
+11/11/2019   | Salário Quinzenal              | R$ 2.000,00
+11/02/2020   | American Tavern                | R$ 16,80
+11/02/2020   | Provedor de Serviços de Internet | R$ 74,99
+11/03/2020   | Movie Theater                  | R$ 17,00
+11/03/2020   | American Tavern                | R$ 28,40
+11/05/2020   | Cartão de Crédito              | R$ 582,99
+11/05/2020   | Cartão de Crédito              | R$ 751,50
+12/06/2018   | Supermercado                   | R$ 21,38
+12/06/2018   | Supermercado                   | R$ 13,48
+12/06/2018   | Gas Company                    | R$ 40,00
+12/07/2018   | Barbershop                     | R$ 30,00
+12/07/2018   | Salário Quinzenal              | R$ 2.000,00
+12/08/2018   | Supermercado                   | R$ 12,64
+12/09/2018   | Spotify                        | R$ 10,69
+12/11/2018   | Restaurante de Brunch          | R$ 10,29
+12/12/2018   | Phone Company                  | R$ 89,54
+12/01/2019   | Thai Restaurant                | R$ 27,00
+12/02/2019   | Supermercado                   | R$ 21,39
+12/02/2019   | Loja de Ferragens              | R$ 17,10
+12/02/2019   | Companhia de Energia           | R$ 60,00
+12/05/2019   | American Tavern                | R$ 63,00
+12/05/2019   | Posto de Gasolina              | R$ 20,01
+12/05/2019   | Conta de água                  | R$ 35,00
+12/06/2019   | Starbucks                      | R$ 3,00
+12/06/2019   | Cartão de Crédito              | R$ 311,02
+12/06/2019   | Cartão de Crédito              | R$ 311,02
+12/06/2019   | Fancy Restaurant               | R$ 56,52
+12/06/2019   | Amazon                         | R$ 49,99
+12/06/2019   | Amazon                         | R$ 41,72
+12/06/2019   | Amazon                         | R$ 24,30
+12/07/2019   | State Farm                     | R$ 75,00
+12/07/2019   | Amazon                         | R$ 43,01
+12/08/2019   | Cartão de Crédito              | R$ 464,03
+12/08/2019   | Shell                          | R$ 30,38
+12/09/2019   | Cartão de Crédito              | R$ 464,03
+12/09/2019   | Salário Quinzenal              | R$ 2.000,00
+12/10/2019   | New York Deli                  | R$ 21,38
+12/10/2019   | Loja de Ferragens              | R$ 22,14
+12/11/2019   | Loja de Ferragens              | R$ 28,00
+12/12/2019   | Loja de Ferragens              | R$ 38,40
+12/02/2020   | Chick-Fil-A                    | R$ 56,07
+12/02/2020   | Shell                          | R$ 32,47
+12/02/2020   | Shell                          | R$ 7,48
+12/02/2020   | Provedor de Serviços de Internet | R$ 75,99
+12/02/2020   | Amazon                         | R$ 44,99
+12/04/2020   | Cervejaria                     | R$ 12,00
+12/05/2020   | Cervejaria                     | R$ 14,00
+12/05/2020   | Cartão de Crédito              | R$ 860,05
+12/05/2020   | Supermercado                   | R$ 55,04
+01/01/2019   | Amazon                         | R$ 13,09
+01/02/2019   | Cartão de Crédito              | R$ 499,60
+01/03/2019   | Pagamento da IPTU              | R$ 1.100,00
+01/03/2019   | Amazon                         | R$ 42,10
+01/04/2019   | Salário Quinzenal              | R$ 2.000,00
+01/05/2019   | American Tavern                | R$ 23,49
+01/08/2019   | Gas Company                    | R$ 45,00
+01/09/2019   | Cartão de Crédito              | R$ 491,45
+01/09/2019   | Cartão de Crédito              | R$ 491,45
+01/09/2019   | Cartão de Crédito              | R$ 281,84
+01/09/2019   | Spotify                        | R$ 10,69
+01/10/2019   | Supermercado                   | R$ 58,79
+01/10/2019   | Barbershop                     | R$ 30,00
+01/10/2019   | Phone Company                  | R$ 65,00
+01/02/2020   | Shell                          | R$ 28,92
+01/03/2020   | Supermercado                   | R$ 6,06
+01/04/2020   | Conta de água                  | R$ 35,00
+01/04/2020   | Companhia de Energia           | R$ 60,00
+02/01/2019   | Salário Quinzenal              | R$ 2.000,00
+02/01/2019   | Roadside Diner                 | R$ 9,47
+02/01/2019   | Amazon                         | R$ 13,09
+02/04/2019   | Loja de Ferragens              | R$ 86,97
+02/04/2019   | Netflix                        | R$ 11,76
+02/05/2019   | Pagamento da IPTU              | R$ 1.100,00
+02/07/2019   | Gas Company                    | R$ 65,00
+02/08/2019   | Starbucks                      | R$ 3,00
+02/08/2019   | Thai Restaurant                | R$ 27,47
+02/09/2019   | Spotify                        | R$ 10,69
+02/11/2019   | Starbucks                      | R$ 3,00
+02/11/2019   | Cartão de Crédito              | R$ 133,95
+02/11/2019   | Posto de Gasolina              | R$ 24,01
+02/12/2019   | Supermercado                   | R$ 30,54
+02/12/2019   | Phone Company                  | R$ 65,00
+02/01/2020   | Supermercado                   | R$ 8,21
+02/03/2020   | Cartão de Crédito              | R$ 207,47
+02/03/2020   | Cartão de Crédito              | R$ 207,47
+02/03/2020   | Supermercado                   | R$ 4,59
+02/03/2020   | Salário Quinzenal              | R$ 2.000,00
+02/03/2020   | Companhia de Energia           | R$ 60,00
+02/04/2020   | Cervejaria                     | R$ 8,00
+02/04/2020   | American Tavern                | R$ 32,75
+02/04/2020   | Amazon                         | R$ 37,45
+03/01/2019   | Salário Quinzenal              | R$ 2.000,00
+03/01/2019   | Amazon                         | R$ 13,09
+03/04/2019   | Supermercado                   | R$ 92,04
+03/04/2019   | Pagamento da IPTU              | R$ 1.100,00
+03/04/2019   | Netflix                        | R$ 11,76
+03/05/2019   | Fancy Restaurant               | R$ 7,00
+03/06/2019   | Cartão de Crédito              | R$ 491,86
+03/08/2019   | Posto de Gasolina              | R$ 34,08
+03/08/2019   | Amazon                         | R$ 27,17
+03/08/2019   | Gas Company                    | R$ 49,00
+03/09/2019   | Spotify                        | R$ 10,69
+03/12/2019   | Phone Company                  | R$ 65,00
+03/12/2019   | Bakery Place                   | R$ 3,02
+03/01/2020   | Cartão de Crédito              | R$ 532,86
+03/01/2020   | Cartão de Crédito              | R$ 301,79
+03/02/2020   | Cartão de Crédito              | R$ 305,27
+03/02/2020   | Cartão de Crédito              | R$ 301,79
+03/02/2020   | Restaurante de Brunch          | R$ 8,00
+03/03/2020   | Salário Quinzenal              | R$ 2.000,00
+03/03/2020   | Companhia de Energia           | R$ 60,00
+04/01/2019   | Cartão de Crédito              | R$ 1.552,65
+04/01/2019   | Cartão de Crédito              | R$ 600,51
+04/01/2019   | Amazon                         | R$ 13,09
+04/02/2019   | Pagamento da IPTU              | R$ 1.100,00
+04/04/2019   | Supermercado                   | R$ 5,64
+04/04/2019   | Amazon                         | R$ 35,90
+04/04/2019   | Netflix                        | R$ 11,76
+04/06/2019   | Amazon                         | R$ 27,54
+04/08/2019   | Gas Company                    | R$ 30,00
+04/09/2019   | Cartão de Crédito              | R$ 436,75
+04/09/2019   | Supermercado                   | R$ 10,70
+04/09/2019   | Barbershop                     | R$ 30,00
+04/09/2019   | Spotify                        | R$ 10,69
+04/10/2019   | Phone Company                  | R$ 65,00
+04/12/2019   | Best Buy                       | R$ 44,93
+04/12/2019   | Supermercado                   | R$ 41,34
+04/12/2019   | Salário Quinzenal              | R$ 2.000,00
+04/01/2020   | QuikTrip                       | R$ 38,94
+04/01/2020   | Supermercado                   | R$ 16,87
+04/01/2020   | Vietnamese Restaurant          | R$ 20,64
+04/03/2020   | Companhia de Energia           | R$ 60,00
+04/04/2020   | Conta de água                  | R$ 35,00
+05/01/2019   | Amazon                         | R$ 13,09
+05/02/2019   | Pagamento da IPTU              | R$ 1.100,00
+05/03/2019   | Cartão de Crédito              | R$ 758,07
+05/04/2019   | Netflix                        | R$ 13,90
+05/06/2019   | Amazon                         | R$ 16,94
+05/07/2019   | Amazon                         | R$ 38,56
+05/09/2019   | Best Buy                       | R$ 331,69
+05/09/2019   | Spotify                        | R$ 10,69
+05/09/2019   | Target                         | R$ 3,20
+05/09/2019   | Gas Company                    | R$ 30,00
+05/10/2019   | Best Buy                       | R$ 21,39
+05/10/2019   | Phone Company                  | R$ 65,00
+05/10/2019   | Salário Quinzenal              | R$ 2.000,00
+05/01/2020   | Cartão de Crédito              | R$ 480,88
+05/01/2020   | QuikTrip                       | R$ 35,24
+05/01/2020   | Fancy Restaurant               | R$ 98,19
+05/01/2020   | Restaurante Grego              | R$ 23,11
+05/02/2020   | Supermercado                   | R$ 2,02
+05/03/2020   | Companhia de Energia           | R$ 60,00
+05/05/2020   | Cartão de Crédito              | R$ 575,33
+05/05/2020   | Conta de água                  | R$ 35,00
+06/01/2019   | Amazon                         | R$ 13,09
+06/03/2019   | Starbucks                      | R$ 2,75
+06/03/2019   | Cartão de Crédito              | R$ 260,95
+06/03/2019   | Pagamento da IPTU              | R$ 1.100,00
+06/04/2019   | Barbershop                     | R$ 30,00
+06/04/2019   | Netflix                        | R$ 13,90
+06/05/2019   | Supermercado                   | R$ 23,00
+06/05/2019   | Mexican Restaurant             | R$ 23,24
+06/06/2019   | Starbucks                      | R$ 3,75
+06/06/2019   | Supermercado                   | R$ 5,64
+06/07/2019   | Cartão de Crédito              | R$ 458,56
+06/07/2019   | Salário Quinzenal              | R$ 2.000,00
+06/07/2019   | Gas Company                    | R$ 30,00
+06/09/2019   | Spotify                        | R$ 10,69
+06/12/2019   | Phone Company                  | R$ 65,00
+06/01/2020   | Cartão de Crédito              | R$ 152,72
+06/01/2020   | Cartão de Crédito              | R$ 152,72
+06/02/2020   | Supermercado                   | R$ 10,69
+06/03/2020   | Posto de Gasolina              | R$ 33,16
+06/05/2020   | Conta de água                  | R$ 35,00
+06/05/2020   | Companhia de Energia           | R$ 60,00
+07/01/2019   | Starbucks                      | R$ 7,00
+07/01/2019   | Supermercado                   | R$ 99,47
+07/01/2019   | Hawaiian Grill                 | R$ 24,97
+07/01/2019   | Thai Restaurant                | R$ 24,00
+07/01/2019   | Amazon                         | R$ 13,09
+07/02/2019   | Loja de Ferragens              | R$ 229,90
+07/02/2019   | Pagamento da IPTU              | R$ 1.100,00
+07/04/2019   | Netflix                        | R$ 13,90
+07/05/2019   | Cervejaria                     | R$ 19,00
+07/05/2019   | Salário Quinzenal              | R$ 2.250,00
+07/06/2019   | Cartão de Crédito              | R$ 220,08
+07/06/2019   | Supermercado                   | R$ 92,98
+07/06/2019   | Restaurante Grego              | R$ 23,26
+07/07/2019   | Loja de Ferragens              | R$ 103,14
+07/08/2019   | Cartão de Crédito              | R$ 305,28
+07/08/2019   | Cartão de Crédito              | R$ 220,08
+07/09/2019   | Cartão de Crédito              | R$ 549,72
+07/09/2019   | Spotify                        | R$ 10,69
+07/10/2019   | Phone Company                  | R$ 65,00
+07/10/2019   | Gas Company                    | R$ 30,00
+07/03/2020   | Supermercado                   | R$ 87,14
+07/04/2020   | Amazon                         | R$ 89,99
+07/04/2020   | Companhia de Energia           | R$ 60,00
+07/05/2020   | Conta de água                  | R$ 35,00
+08/01/2019   | Amazon                         | R$ 13,09
+08/02/2019   | Pagamento da IPTU              | R$ 1.100,00
+08/02/2019   | Salário Quinzenal              | R$ 2.250,00
+08/03/2019   | Posto de Gasolina              | R$ 36,36
+08/03/2019   | Supermercado                   | R$ 3,96
+08/03/2019   | American Tavern                | R$ 23,47
+08/04/2019   | Netflix                        | R$ 13,90
+08/05/2019   | Cervejaria                     | R$ 18,00
+08/05/2019   | Cartão de Crédito              | R$ 349,28
+08/05/2019   | Cartão de Crédito              | R$ 117,65
+08/06/2019   | Cartão de Crédito              | R$ 521,17
+08/06/2019   | Cartão de Crédito              | R$ 117,65
+08/06/2019   | Loja de Ferragens              | R$ 125,00
+08/08/2019   | Supermercado                   | R$ 11,72
+08/09/2019   | Spotify                        | R$ 10,69
+08/09/2019   | Gas Company                    | R$ 30,00
+08/12/2019   | Phone Company                  | R$ 65,00
+08/12/2019   | Thai Restaurant                | R$ 26,67
+08/02/2020   | Starbucks                      | R$ 2,75
+08/03/2020   | Cartão de Crédito              | R$ 335,20
+08/03/2020   | Companhia de Energia           | R$ 60,00
+08/04/2020   | Salário Quinzenal              | R$ 2.250,00
+08/04/2020   | Conta de água                  | R$ 35,00
+08/05/2020   | Cartão de Crédito              | R$ 87,17
+08/05/2020   | Supermercado                   | R$ 33,15
+08/05/2020   | Barbershop                     | R$ 19,00
+08/05/2020   | American Tavern                | R$ 3,50
+09/01/2019   | Amazon                         | R$ 13,09
+09/03/2019   | Pagamento da IPTU              | R$ 1.100,00
+09/03/2019   | Fancy Restaurant               | R$ 41,24
+09/04/2019   | Netflix                        | R$ 13,90
+09/05/2019   | Starbucks                      | R$ 3,75
+09/06/2019   | Cartão de Crédito              | R$ 1.390,37
+09/06/2019   | Cartão de Crédito              | R$ 1.390,37
+09/06/2019   | Cartão de Crédito              | R$ 502,75
+09/07/2019   | Cervejaria                     | R$ 12,87
+09/08/2019   | Cervejaria                     | R$ 19,30
+09/09/2019   | Shell                          | R$ 28,77
+09/09/2019   | Supermercado                   | R$ 65,09
+09/09/2019   | Loja de Ferragens              | R$ 26,25
+09/09/2019   | Spotify                        | R$ 10,69
+09/09/2019   | Gas Company                    | R$ 30,00
+09/11/2019   | Cartão de Crédito              | R$ 360,56
+09/11/2019   | Phone Company                  | R$ 65,00
+09/12/2019   | Cartão de Crédito              | R$ 360,56
+09/01/2020   | Starbucks                      | R$ 2,75
+09/01/2020   | Salário Quinzenal              | R$ 2.250,00
+09/02/2020   | Supermercado                   | R$ 46,44
+09/03/2020   | Amazon                         | R$ 47,66
+09/04/2020   | Cartão de Crédito              | R$ 90,57
+09/04/2020   | Cartão de Crédito              | R$ 90,57
+09/04/2020   | Conta de água                  | R$ 35,00
+09/05/2020   | Cartão de Crédito              | R$ 186,13
+09/05/2020   | Companhia de Energia           | R$ 60,00
+-----------------------------------------------------------

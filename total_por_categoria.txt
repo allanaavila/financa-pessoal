@@ -1,0 +1,28 @@
+Relatório de Total por Categoria:
+============================================
+Categoria                      | Total          
+------------------------------------------------
+Entretenimento                 | R$ 9,62        
+Despesas                       | R$ 560,00      
+Eletrônicos e Software         | R$ 719,00      
+Seguro Automóvel               | R$ 1.350,00    
+Fast Food                      | R$ 330,63      
+Combustível                    | R$ 1.715,17    
+Food & Dining                  | R$ 77,75       
+Cafés                          | R$ 115,54      
+Corte de Cabelo                | R$ 378,00      
+Salário                        | R$ 93.750,00   
+Conta Telefonica               | R$ 1.680,40    
+Cartão de Crédito              | R$ 63.561,12   
+Television                     | R$ 104,78      
+Restaurantes                   | R$ 2.613,02    
+Compras                        | R$ 1.973,24    
+Bares e Bebidas                | R$ 539,13      
+Filmes e DVDs                  | R$ 222,19      
+Mercearia                      | R$ 2.795,21    
+Serviços Públicos              | R$ 2.776,00    
+Internet                       | R$ 1.570,88    
+Hipoteca e Aluguel             | R$ 24.754,50   
+Música                         | R$ 224,49      
+Melhorias em Casa              | R$ 19.092,87   
+------------------------------------------------
